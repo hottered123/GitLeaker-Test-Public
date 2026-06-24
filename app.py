@@ -6,3 +6,4 @@ def main():
 if __name__ == "__main__":
     main()
     print("wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY");
+    print("wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY");
